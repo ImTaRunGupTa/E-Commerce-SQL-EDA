@@ -15,7 +15,7 @@ Exploratory Data Analysis in SQL on Online Retail Transactions: Data Quality, Sa
 
 ## 📖 Project Overview
 
-This project performs a complete **Exploratory Data Analysis (EDA) in SQL** on the cleaned **Online Retail (E-Commerce) dataset** that powers the [E-Commerce Sales Analytics Power BI dashboard](https://github.com/ImTaRunGupTa/E-Commerce-Sales-DashBoard).
+This project performs a complete **Exploratory Data Analysis (EDA) in SQL** on the cleaned **Online Retail (E-Commerce) dataset** that powers the [E-Commerce Sales Analytics Power BI dashboard]([https://github.com/ImTaRunGupTa/E-Commerce-Sales-DashBoard](https://github.com/ImTaRunGupTa/E-Commerce_Sales_DashBoard)).
 
 It validates the quality of the cleaned data, recomputes every dashboard KPI in SQL, and goes further with **RFM segmentation, cohort retention, Pareto concentration, market-basket pairs, outlier detection and sensitivity analysis**, all using plain SQL (CTEs and window functions).
 
