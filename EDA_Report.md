@@ -110,7 +110,7 @@ All distributions are strongly right-skewed (mean >> median), which is why media
 
 ## 5. Sales Trends (`04_sales_analysis.sql`)
 
-![Monthly revenue](../images/01_monthly_revenue.png)
+![Monthly revenue](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/01_monthly_revenue.png)
 
 | Month | Orders | Revenue | MoM | Revenue / active day |
 |---|---|---|---|---|
