@@ -1,0 +1,2 @@
+line_items,total_orders,total_customers,total_products,total_countries,quantity_sold,total_revenue,avg_order_value,avg_selling_price,revenue_per_customer,orders_per_customer,lines_per_order,units_per_order
+168631,7961,2997,3507,33,2205617,3875487.99,486.81,1.76,1293.12,2.66,21.18,277.05

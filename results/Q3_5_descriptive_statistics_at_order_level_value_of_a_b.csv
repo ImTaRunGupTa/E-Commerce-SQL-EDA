@@ -1,0 +1,4 @@
+metric,min_val,mean_val,median_val,max_val
+Order value,0.38,486.81,302.64,168469.6
+Units per order,1,277.05,151.0,80995
+Lines per order,1,21.18,15.0,529

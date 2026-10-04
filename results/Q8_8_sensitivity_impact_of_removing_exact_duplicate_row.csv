@@ -1,0 +1,3 @@
+scenario,line_items,total_revenue,quantity
+As provided,168631,3875487.99,2205617
+Duplicates removed,166363,3865463.08,2199336

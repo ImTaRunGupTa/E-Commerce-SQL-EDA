@@ -1,0 +1,10 @@
+column_name,null_or_blank
+InvoiceNo,0
+StockCode,0
+Description,0
+Quantity,0
+InvoiceDate,0
+UnitPrice,0
+CustomerID,0
+Country,0
+Revenue,0

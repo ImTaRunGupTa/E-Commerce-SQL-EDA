@@ -1,0 +1,6 @@
+band,customers,cumulative_revenue_pct
+Top 1% of customers,29,29.64
+Top 5% of customers,149,48.68
+Top 10% of customers,299,59.07
+Top 20% of customers,599,72.04
+Customers needed for 80% of revenue,883,80.01

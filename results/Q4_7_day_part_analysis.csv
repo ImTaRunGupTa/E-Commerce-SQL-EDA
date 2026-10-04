@@ -1,0 +1,5 @@
+day_part,orders,revenue,revenue_share_pct
+1 Morning (before 12),2778,1539895.13,39.73
+2 Midday (12-14),3447,1487000.24,38.37
+3 Afternoon (15-17),1586,768940.22,19.84
+4 Evening (18+),151,79652.4,2.06

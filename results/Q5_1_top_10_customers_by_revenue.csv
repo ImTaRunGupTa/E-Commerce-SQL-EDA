@@ -1,0 +1,11 @@
+CustomerID,country,orders,quantity,revenue,revenue_share_pct
+16446,United Kingdom,1,80995,168469.6,4.35
+18102,United Kingdom,29,37913,135953.04,3.51
+14646,Netherlands,28,62627,87617.39,2.26
+14911,EIRE,75,32220,59175.7,1.53
+17511,United Kingdom,15,32097,49108.16,1.27
+16029,United Kingdom,33,22697,48851.67,1.26
+12415,Australia,10,25410,44582.79,1.15
+15098,United Kingdom,3,121,39916.5,1.03
+14156,EIRE,24,19170,37347.95,0.96
+16684,United Kingdom,7,29854,36992.9,0.95

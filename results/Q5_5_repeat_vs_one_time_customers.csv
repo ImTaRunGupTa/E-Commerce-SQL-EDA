@@ -1,0 +1,3 @@
+customer_type,customers,revenue,avg_revenue_per_customer,avg_orders,aov
+One-time,1463,693270.24,473.87,1.0,473.87
+Repeat,1534,3182217.75,2074.46,4.24,489.72

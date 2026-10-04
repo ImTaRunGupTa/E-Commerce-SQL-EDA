@@ -1,0 +1,6 @@
+StockCode,description,line_items,qty,revenue
+POST,POSTAGE,449,1244,35247.15
+M,Manual,131,3418,26016.79
+DOT,DOTCOM POSTAGE,6,6,3662.3
+C2,CARRIAGE,44,44,2200.0
+BANK CHARGES,Bank Charges,6,6,90.0

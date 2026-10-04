@@ -1,0 +1,5 @@
+check_name,rows_flagged,revenue
+Quantity > 1000,59,254176.83
+UnitPrice > 500,19,71110.93
+Line revenue > 5000,4,222121.75
+UnitPrice < 0.10,97,711.25

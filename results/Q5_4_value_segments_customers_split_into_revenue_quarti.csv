@@ -1,0 +1,5 @@
+value_segment,customers,min_revenue,max_revenue,avg_revenue,revenue,revenue_share_pct
+Q1 - Top 25% (High value),750,1068.19,168469.6,3960.05,2970038.34,76.64
+Q2 - Upper-mid 25%,749,469.48,1064.28,717.64,537510.83,13.87
+Q3 - Lower-mid 25%,749,248.1,468.96,345.99,259148.78,6.69
+Q4 - Bottom 25% (Low value),749,5.9,248.08,145.25,108790.04,2.81

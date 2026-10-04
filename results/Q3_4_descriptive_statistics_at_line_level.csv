@@ -1,0 +1,4 @@
+metric,min_val,mean_val,median_val,max_val,variance
+Quantity,1,13.08,6.0,80995,40745.75
+UnitPrice,0.04,3.15,1.95,8142.75,682.55
+Revenue,0.1,22.98,11.7,168469.6,182994.81
