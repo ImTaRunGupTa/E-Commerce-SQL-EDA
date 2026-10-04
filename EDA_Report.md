@@ -110,7 +110,7 @@ All distributions are strongly right-skewed (mean >> median), which is why media
 
 ## 5. Sales Trends (`04_sales_analysis.sql`)
 
-![Monthly revenue](../images/01_monthly_revenue.png)
+![Monthly revenue](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/01_monthly_revenue.png)
 
 | Month | Orders | Revenue | MoM | Revenue / active day |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ All distributions are strongly right-skewed (mean >> median), which is why media
 - **Weekday (Q4.5):** Thursday 17.1%, Tuesday 16.9%, Monday 15.9% lead; Saturday (10.7%) and Wednesday (11.0%) trail. Monday's AOV of 613 is inflated by the 12-Sep order. Treat weekday differences as indicative, because only 12 days per month are present.
 - **Hours (Q4.6, Q4.7):** noon is the peak hour (1,411 orders, 15.9% of revenue); 09:00-15:59 accounts for **85.3%** of revenue and after 18:00 only 2.1%. This is a B2B-style office-hours pattern.
 
-![Weekday revenue](../images/02_weekday_revenue.png)
-![Hourly revenue](../images/03_hourly_revenue.png)
+![Weekday revenue](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/02_weekday_revenue.png)
+![Hourly revenue](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/03_hourly_revenue.png)
 
 ---
 
@@ -163,7 +163,7 @@ Value quartiles (Q5.4): Top 25% 76.6% of revenue, next 25% 13.9%, next 6.7%, bot
 Top accounts (Q5.1): `16446` (168,470 - one order only), `18102` (UK, 29 orders, 135,953), `14646` (Netherlands, 28 orders, 87,617), `14911` (EIRE, **75 orders**, 59,176).
 
 ### 6.3 RFM segmentation (Q5.8 - Q5.9)
-![RFM](../images/06_rfm_segments.png)
+![RFM](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/06_rfm_segments.png)
 
 | Segment | Customers | Customer share | Revenue share | Avg recency (days) |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ Top accounts (Q5.1): `16446` (168,470 - one order only), `18102` (UK, 29 orders,
 **"Cannot Lose Them"** (232 customers, 3 orders each on average, 217 days quiet) hold 8.7% of revenue and are the highest-value win-back target.
 
 ### 6.4 Acquisition vs retention (Q5.6, Q5.10)
-![New vs returning](../images/07_new_vs_returning.png)
+![New vs returning](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/07_new_vs_returning.png)
 
 - New customers per month fall from **331 (Jan)** to **88 (Dec)**; the returning share climbs from 29.7% to 76.5%. Growth is coming from the existing base, not from acquisition.
 - The Dec-2010 cohort (644 customers) was active again at 21.7% in month 1 and 15.8% in month 12. Later cohorts return less (month-1 retention 5-15%). Because only 12 days per month are observed, absolute retention is understated; compare cohorts to each other, not to external benchmarks.
@@ -188,7 +188,7 @@ Top accounts (Q5.1): `16446` (168,470 - one order only), `18102` (UK, 29 orders,
 
 ## 7. Product Analysis (`06_product_analysis.sql`)
 
-![Top products](../images/05_top_products.png)
+![Top products](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/05_top_products.png)
 
 | Rank by revenue | Product | Revenue | Orders | ASP |
 |---|---|---|---|---|
@@ -202,7 +202,7 @@ Top accounts (Q5.1): `16446` (168,470 - one order only), `18102` (UK, 29 orders,
 - **Volume vs value:** World War 2 Gliders sold 24,682 units at 0.25 and gave only 6,052; the Regency Cakestand sold 5,412 units for 62,422.
 - **Price bands (Q6.5):** items under 1 are 38.8% of units but 11.3% of revenue; the **2-4.99 band delivers 41.1% of revenue**. 14 premium products over 50 give 2.4% of revenue from 246 units.
 
-![Price bands](../images/08_price_bands.png)
+![Price bands](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/08_price_bands.png)
 
 - **Concentration (Q6.8):** top 10% of stock codes = 62.7% of revenue, top 20% = 79.1%; 729 codes (20.8%) reach 80%. A classic Pareto shape, with the 80,995-unit item inflating the top.
 - **Cross-selling (Q8.4):** the strongest pairs are design variants of the same family: Alarm Clock Green + Red (240 orders), Jumbo Bag Pink Polkadot + Red Retrospot (233), and the Lunch Bag family around Red Retrospot (up to 225 orders). Bundle by collection.
@@ -212,7 +212,7 @@ Top accounts (Q5.1): `16446` (168,470 - one order only), `18102` (UK, 29 orders,
 
 ## 8. Geographic Analysis (`07_country_analysis.sql`)
 
-![Countries](../images/04_top_countries.png)
+![Countries](https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/04_top_countries.png)
 
 | Market | Customers | Orders | Revenue | Share | AOV | Revenue / customer |
 |---|---|---|---|---|---|---|
