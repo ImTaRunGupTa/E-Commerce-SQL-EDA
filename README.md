@@ -215,13 +215,13 @@ The complete analysis, tables and recommendations: **[docs/EDA_Report.md](docs/E
 # 📸 Charts
 
 <p align="center">
-<img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/01_monthly_revenue.png" width="48%"> <img src="images/06_rfm_segments.png" width="48%">
+<img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/01_monthly_revenue.png" width="48%"> <img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/06_rfm_segments.png" width="48%">
 </p>
 <p align="center">
-<img src="images/04_top_countries.png" width="48%"> <img src="images/05_top_products.png" width="48%">
+<img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/04_top_countries.png" width="48%"> <img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/05_top_products.png" width="48%">
 </p>
 <p align="center">
-<img src="images/07_new_vs_returning.png" width="48%"> <img src="images/03_hourly_revenue.png" width="48%">
+<img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/07_new_vs_returning.png" width="48%"> <img src="https://github.com/ImTaRunGupTa/E-Commerce-SQL-EDA/blob/main/graphs/03_hourly_revenue.png" width="48%">
 </p>
 
 ---
